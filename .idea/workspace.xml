@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fa705e3-2f18-48d8-89b1-b54cff872cca" name="Default Changelist" comment="Hii" />
+    <list default="true" id="8fa705e3-2f18-48d8-89b1-b54cff872cca" name="Default Changelist" comment="Hii">
+      <change beforePath="$PROJECT_DIR$/.idea/mr_book_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mr_book_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,5 +83,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hii" />
     <option name="LAST_COMMIT_MESSAGE" value="Hii" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1620103027604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1620103027604" />
   </component>
 </project>
